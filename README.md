@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Mahdi Ebrahimi</h1>
-<h3 align="center">Flutter Developer | Clean Architecture Enthusiast | RESTful APIs & GetX</h3>
+<h3 align="center">Flutter Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mahdi-ebrahimi-256b56272/">
@@ -11,9 +11,9 @@
 
 ---
 
-- 🔭 I’m currently building a **modern e-commerce app** using **GetX** & **Clean Architecture**
+- 🔭 I’m currently building a **modern e-commerce app**
 - 🌱 I’m currently learning advanced **state management**, **scalable Flutter patterns**, and **testing**
-- 💬 Ask me about: `Flutter`, `Dart`, `REST APIs`, `GetX`, `Git`, `Clean Architecture`
+- 💬 Ask me about: `Flutter`, `Dart`, `Git`,
 - 📫 Reach me via email: **[mahdiansel8092@gmail.com](mailto:mahdiansel8092@gmail.com)**
 
 ---
